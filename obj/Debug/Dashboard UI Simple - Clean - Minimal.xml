@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Dashboard UI Simple - Clean - Minimal
+</name>
+</assembly>
+<members>
+<member name="T:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources.bar_chart_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources.card_exchange_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources.DaBaby1_e1592954848719">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources.notification_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources.photo_1543555033_397fbd4e1ec4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources.pp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources.Screenshot_819">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources.settings_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Dashboard_UI_Simple___Clean___Minimal.My.Resources.Resources.work_pack_white_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

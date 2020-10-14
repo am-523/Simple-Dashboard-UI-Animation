@@ -1,0 +1,14 @@
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\bin\Debug\Dashboard UI Simple - Clean - Minimal.exe.config
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\bin\Debug\Dashboard UI Simple - Clean - Minimal.exe
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\bin\Debug\Dashboard UI Simple - Clean - Minimal.pdb
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\bin\Debug\Dashboard UI Simple - Clean - Minimal.xml
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\obj\Debug\Dashboard UI Simple - Clean - Minimal.vbprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\obj\Debug\Dashboard_UI_Simple___Clean___Minimal.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\obj\Debug\Dashboard_UI_Simple___Clean___Minimal.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\obj\Debug\Dashboard UI Simple - Clean - Minimal.vbproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\obj\Debug\Dashboard UI Simple - Clean - Minimal.vbproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\obj\Debug\Dashboard UI Simple - Clean - Minimal.vbproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\obj\Debug\Dashboard UI Simple - Clean - Minimal.exe
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\obj\Debug\Dashboard UI Simple - Clean - Minimal.xml
+D:\AW 17\Source Code Visual Studio 19\Dashboard UI Simple - Clean - Minimal\obj\Debug\Dashboard UI Simple - Clean - Minimal.pdb

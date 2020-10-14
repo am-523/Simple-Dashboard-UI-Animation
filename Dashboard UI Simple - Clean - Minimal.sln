@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dashboard UI Simple - Clean - Minimal", "Dashboard UI Simple - Clean - Minimal.vbproj", "{E13525B7-FC19-4EF7-969E-4DF630800027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E13525B7-FC19-4EF7-969E-4DF630800027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13525B7-FC19-4EF7-969E-4DF630800027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13525B7-FC19-4EF7-969E-4DF630800027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13525B7-FC19-4EF7-969E-4DF630800027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC8EDA7B-5371-4491-9D14-3D5B06CAEAC1}
+	EndGlobalSection
+EndGlobal
